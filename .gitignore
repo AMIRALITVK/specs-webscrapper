@@ -1,0 +1,12 @@
+/Lib
+/Scripts
+/__pycache__
+*.exe
+*.png
+*.jpeg
+*.txt
+*.cfg
+*.json
+*.xlsx
+*.log
+*.lock
